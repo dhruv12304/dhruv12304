@@ -1,16 +1,23 @@
-## Hi there 👋
+# Dhruv Verma
+**MS Software Engineering @ San Jose State University**
+*Specializing in AI-Driven Systems, Distributed Observability, and ERP Optimization.*
 
-<!--
-**dhruv12304/dhruv12304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Technical Stack
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java, Python, C++, SQL, JavaScript |
+| **Frameworks** | Spring Boot, Django, Flask, FastAPI, Node.js |
+| **Data & Cloud** | PostgreSQL, MySQL, MongoDB, Docker, AWS (EC2, S3, RDS) |
+| **AI & Observability** | LangChain, OpenAI APIs, TensorFlow, OpenTelemetry |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 Experience Highlights
+* **Senior Software Engineer @ Better Mortgage:** Designed Java/Python microservices on **AWS**, reducing API latency by 20%.
+* **Software Engineer @ XL Dynamics:** Refactored legacy mortgage systems into modular **Spring Boot** architecture, reducing technical debt by 25%.
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/your-profile) | dhruv12304@gmail.com
