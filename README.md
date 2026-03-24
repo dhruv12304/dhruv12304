@@ -20,4 +20,4 @@
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/your-profile) | dhruv12304@gmail.com
+[LinkedIn](www.linkedin.com/in/dhruvverma1) | dhruv12304@gmail.com
