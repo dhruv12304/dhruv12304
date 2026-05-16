@@ -31,7 +31,7 @@ The tools I reach for, grouped by where they sit in the stack.
 
 _Most of my best work shipped under NDA. I'm always up to walk through architecture, trade-offs, and the war stories. Reach out._
 
-[![Email](https://img.shields.io/badge/Email-dhruv%40example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruv@example.com)
+[![Email](https://img.shields.io/badge/Email-dhruv%40example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruv12304@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin%2Fdhruv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvverma1)
 
 </div>
