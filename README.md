@@ -7,6 +7,8 @@
 
 ### Building secure, event-driven, auditable systems for regulated financial environments.
 
+</div>
+
 ## 🎯 About Me
 
 - 🔭 **Currently:** M.S. Software Engineering @ San José State University — graduating **June 2027**.
