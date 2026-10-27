@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=500&color=4493F8&center=true&vCenter=true&width=700&height=80&lines=Backend+Engineer+%C2%B7+6+yrs+in+mortgage+fintech;Building+systems+you+can+audit)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=500&color=4493F8&center=true&vCenter=true&width=800&height=80&lines=Backend+Engineer+%C2%B7+6+yrs+in+mortgage+fintech;Building+systems+you+can+audit)](https://git.io/typing-svg)
 
 </div>
 
